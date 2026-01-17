@@ -3,7 +3,7 @@
 [![DOI:10.1080/27660400.2025.2611575](https://img.shields.io/badge/DOI-10.1080/27660400.2025.2611575-blue.svg)](https://doi.org/10.1080/27660400.2025.2611575)
 
 This repository is the official implementation of the paper:
-> **Multi-objective optimization for designing structurally similar proteins with dissimilar sequences** > Ryunosuke Akiba, Yoshitaka Moriwaki, Ryuichiro Ishitani & Narutoshi Yoshikawa  
+> **Multi-objective optimization for designing structurally similar proteins with dissimilar sequences** > Ryo Akiba, Yoshitaka Moriwaki, Ryuichiro Ishitani & Naruki Yoshikawa  
 > *Science and Technology of Advanced Materials: Methods*, 2025.  
 > [Read the paper here](https://doi.org/10.1080/27660400.2025.2611575)
 
@@ -140,7 +140,7 @@ If you use this code or our methodology in your research, please cite our paper:
 ```bibtex
 @article{Akiba2025,
   title={Multi-objective optimization for designing structurally similar proteins with dissimilar sequences},
-  author={Akiba, Ryunosuke and Moriwaki, Yoshitaka and Ishitani, Ryuichiro and Yoshikawa, Narutoshi},
+  author={Akiba, Ryo and Moriwaki, Yoshitaka and Ishitani, Ryuichiro and Yoshikawa, Naruki},
   journal={Science and Technology of Advanced Materials: Methods},
   year={2025},
   doi={10.1080/27660400.2025.2611575},
