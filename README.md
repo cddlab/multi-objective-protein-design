@@ -144,5 +144,5 @@ If you use this code or our methodology in your research, please cite our paper:
   journal={Science and Technology of Advanced Materials: Methods},
   year={2025},
   doi={10.1080/27660400.2025.2611575},
-  url={[https://doi.org/10.1080/27660400.2025.2611575](https://doi.org/10.1080/27660400.2025.2611575)}
+  url={https://doi.org/10.1080/27660400.2025.2611575}
 }
